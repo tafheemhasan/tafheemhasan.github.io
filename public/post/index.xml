@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Not Something Extraordinary</title>
+    <link>https://tafheemhasan.github.io/post/</link>
+    <description>Recent content in Posts on Not Something Extraordinary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2022, Tafhimul Hasan; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 14 Jul 2022 16:32:52 +0600</lastBuildDate><atom:link href="https://tafheemhasan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parallax</title>
+      <link>https://tafheemhasan.github.io/post/parallax/</link>
+      <pubDate>Thu, 14 Jul 2022 16:32:52 +0600</pubDate>
+      
+      <guid>https://tafheemhasan.github.io/post/parallax/</guid>
+      <description>❓ *বলুন তো,*খালি চোখে আকাশে তাকালে কী দেখতে পাই? অনেক কিছুই দেখতে পাওয়া যেতে পারে, তবে সেটা আসলে নির্ভর করছে, কোন সময় দেখছি তার উপর। মধ্যদুপুরে মাথার উপরের আকাশে তাকালে, ইয়া বড় সাদা রঙ এর একটি চাকতি দেখা যায়। যদিও সেটা এত বেশি উজ্জ্বল যে খালি চোখে বেশিক্ষণ তাকানো অসম্ভব। চোখ নামিয়ে ফেলতে বাধ্য হবেন। হ্যাঁ, সূর্যের কথাই বলছিলাম। মধ্যরাতে মহাশূন্যের দিকে মুখ ফেরালে অনেক হিজিবিজি তারা দেখতে পাওয়া উচিত। সময়টা শীতকাল হলে অপূর্ব কালপুরুষ ও চোখে পড়ে যেতে পারে।</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://tafheemhasan.github.io/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tafheemhasan.github.io/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
